@@ -1,0 +1,1 @@
+const t={key:"v-74bb809e",path:"/interface/js/var%20let%20const.html",title:"var let const",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1657014158e3,contributors:[{name:"\u5F90\u6CFD",email:"569552263@qq.com",commits:2}]},filePathRelative:"interface/js/var let const.md"};export{t as data};
